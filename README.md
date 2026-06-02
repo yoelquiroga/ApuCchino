@@ -20,13 +20,13 @@ Aplicación Android para cafetería que permite explorar un catálogo de cafés,
 ## 🛠 Stack Tecnológico
 
 <p align="center">
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">Kotlin 2.0</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">Android SDK 21-36</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">SQLite</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">Material Design 3</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">RecyclerView</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">ConstraintLayout</span>
-  <span style="background-color:#DED0CE; border-radius:20px; padding:6px 16px; margin:4px; display:inline-block; color:#000; font-weight:600; font-size:14px;">Gradle KTS + AGP 8.13</span>
+  <img src="https://img.shields.io/badge/Kotlin_2.0-DED0CE?style=flat-square&labelColor=DED0CE&logo=kotlin&logoColor=white" alt="Kotlin 2.0"/>
+  <img src="https://img.shields.io/badge/Android_SDK_21--36-DED0CE?style=flat-square&labelColor=DED0CE&logo=android&logoColor=white" alt="Android SDK 21-36"/>
+  <img src="https://img.shields.io/badge/SQLite-DED0CE?style=flat-square&labelColor=DED0CE&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Material_Design_3-DED0CE?style=flat-square&labelColor=DED0CE&logo=materialdesign&logoColor=white" alt="Material Design 3"/>
+  <img src="https://img.shields.io/badge/RecyclerView-DED0CE?style=flat-square&labelColor=DED0CE" alt="RecyclerView"/>
+  <img src="https://img.shields.io/badge/ConstraintLayout-DED0CE?style=flat-square&labelColor=DED0CE" alt="ConstraintLayout"/>
+  <img src="https://img.shields.io/badge/Gradle_KTS_%2B_AGP_8.13-DED0CE?style=flat-square&labelColor=DED0CE&logo=gradle&logoColor=white" alt="Gradle KTS + AGP 8.13"/>
 </p>
 
 | Frontend | Backend / Persistencia | Build |
