@@ -39,10 +39,10 @@ class PerfilActivity : AppCompatActivity() {
         // Leer datos del usuario desde SharedPreferences
         val prefs = getSharedPreferences("RegistroUsu", MODE_PRIVATE)
         val usuario = Usuario(
-            correo = prefs.getString("correoregis", "") ?: "",
+            correo = prefs.getString("correo", "") ?: "",
             nombre = prefs.getString("nombreusuario", "") ?: "",
             genero = prefs.getString("generoid", "") ?: "",
-            contraseña = prefs.getString("passregis", "") ?: ""
+            contraseña = prefs.getString("clave", "") ?: ""
         )
 
         // Mostrar datos
@@ -66,7 +66,7 @@ class PerfilActivity : AppCompatActivity() {
             // Ir a AccesoActivity
             val intent = Intent(this, AccesoActivity::class.java)
             startActivity(intent)
-            finish() // Cierra PerfilActivity
+            finish()
         }
     }
 }

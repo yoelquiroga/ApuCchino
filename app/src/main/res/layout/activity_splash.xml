@@ -8,7 +8,7 @@
     android:background="@drawable/bg_logo_splash"
     tools:context=".ui.SplashActivity">
 
-    <!-- Logo central de Llama ApuCcino -->
+    <!-- Logo central de Llama ApuCchino -->
 
     <ImageView
         android:id="@+id/icSplash"
@@ -23,6 +23,5 @@
         app:layout_constraintHorizontal_bias="0.55"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
